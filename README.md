@@ -1,16 +1,15 @@
-# show_my_movie_app
+# Movie Finder App
+ 
+The Movie Finder App is a simple mobile application that allows users to search for details about various movies. Users can find information such as the movie title, release year, director, cast, plot, and IMDb rating.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+Search Functionality: Users can search for movies by their titles.
 
-This project is a starting point for a Flutter application.
+Display Movie Details: The app displays comprehensive details about the movie, including the title, release year, director, cast, plot, and IMDb rating.
 
-A few resources to get you started if this is your first Flutter project:
+Dark Mode: The app provides a dark mode feature for users who prefer a darker interface.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Dynamic Theming: Users can switch between light and dark themes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+API Integration: The app integrates with the OMDB API to fetch movie data.
